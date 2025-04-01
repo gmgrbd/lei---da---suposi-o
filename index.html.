@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lei da Exposição - E-book</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Lei da Exposição</h1>
+        <p>Descubra como a exposição pode transformar sua vida!</p>
+    </header>
+    
+    <section>
+        <img src="ebook-cover.jpg" alt="Capa do E-book">
+        <p>Aprenda os segredos da Lei da Exposição e transforme sua realidade.</p>
+        <a href="https://pagamentolink.com" class="btn">Comprar Agora</a>
+    </section>
+</body>
+</html>
